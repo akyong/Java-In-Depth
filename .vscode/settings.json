@@ -1,0 +1,12 @@
+{
+  "editor.inlineSuggest.enabled": false,
+  "editor.suggest.preview": false,
+  "editor.wordBasedSuggestions": "off",
+  "editor.snippetSuggestions": "none",
+  "editor.suggestOnTriggerCharacters": true,
+  "antigravity.supercomplete.enabled": false,
+  "antigravity.tabCompletions.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  }
+}
